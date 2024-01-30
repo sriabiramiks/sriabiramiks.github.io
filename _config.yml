@@ -28,7 +28,7 @@ author:
   github            : sriabiramiks
   linkedin          : sriabiramiks
   medium            : sriabiramiks  
-  youtube           : \@sriabiramiks
+  youtube           : sriabiramiks
 
 
 ### Posts ###
@@ -50,11 +50,11 @@ analytics:
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
 buymeacoffee:
-  enabled: false
+  enabled: true
   username: Sri Abirami K S
   color: "#007bff"
   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
-  description: "Support me on Buy me a coffee!"
+  description: "Support me!"
 
 
 ### Defaults for collections ###
