@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
+- name: Terraform
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
+- name: Python
+  percentage: 85
   color:
 
-- name: Python
-  percentage: 70
+- name: SQL
+  percentage: 75
   color: secondary
